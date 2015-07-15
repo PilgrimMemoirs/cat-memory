@@ -1,0 +1,28 @@
+.wrapper {
+  width: 50%;
+  max-height: 400px;
+}
+
+h1, h2 {
+  color: #34495e;
+}
+
+a 
+  { background: #1abc9c; display: inline-block; }
+
+li {
+  display: inline;
+  width: 20%;
+  margin: .5%;
+  height: auto; 
+  float: left;
+}
+
+
+li img {
+  display: block;
+  width: 100%;
+  visibility: hidden;
+}
+/*
+a:hover img { visibility: initial; }*/
